@@ -1,0 +1,31 @@
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\bin\Release\ArcheAgeLauncher.exe
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\bin\Release\ArcheAgeLauncher.pdb
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\bin\Release\MahApps.Metro.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\bin\Release\System.Windows.Interactivity.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\ArcheAge Launcher.csprojResolveAssemblyReference.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\MainWindow.baml
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\Resources\Icons.baml
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\MainWindow.g.cs
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\App.g.cs
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\ArcheAgeLauncher_MarkupCompile.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\ArcheAgeLauncher.g.resources
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\ArcheAgeLauncher.Properties.Resources.resources
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\ArcheAge Launcher.csproj.GenerateResource.Cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\ArcheAge Launcher.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\ArcheAgeLauncher.exe
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLauncher\obj\Release\ArcheAgeLauncher.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\bin\Release\ArcheAgeLauncher.exe
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\bin\Release\ArcheAgeLauncher.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\bin\Release\MahApps.Metro.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\bin\Release\System.Windows.Interactivity.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\obj\Release\MainWindow.baml
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\obj\Release\Resources\Icons.baml
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\obj\Release\MainWindow.g.cs
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\obj\Release\App.g.cs
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\obj\Release\ArcheAgeLauncher_MarkupCompile.cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\obj\Release\ArcheAgeLauncher.g.resources
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\obj\Release\ArcheAgeLauncher.Properties.Resources.resources
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\obj\Release\ArcheAge Launcher.csproj.GenerateResource.Cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\obj\Release\ArcheAge Launcher.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\obj\Release\ArcheAgeLauncher.exe
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLauncher\obj\Release\ArcheAgeLauncher.pdb

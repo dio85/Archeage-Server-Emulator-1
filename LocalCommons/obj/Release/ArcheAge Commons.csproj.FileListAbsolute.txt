@@ -1,0 +1,14 @@
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\LocalCommons\bin\Release\LocalCommons.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\LocalCommons\bin\Release\LocalCommons.pdb
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\LocalCommons\bin\Release\mysql.data.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\LocalCommons\bin\Release\protobuf-net.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\LocalCommons\obj\Release\ArcheAge Commons.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\LocalCommons\obj\Release\LocalCommons.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\LocalCommons\obj\Release\LocalCommons.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\bin\Release\LocalCommons.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\bin\Release\LocalCommons.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\bin\Release\mysql.data.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\bin\Release\protobuf-net.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\obj\Release\ArcheAge Commons.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\obj\Release\LocalCommons.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\obj\Release\LocalCommons.pdb

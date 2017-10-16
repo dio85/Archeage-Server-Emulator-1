@@ -1,0 +1,16 @@
+<!-- Made By netcastiel -->
+<!-- This File Contains Information About Game Server -->
+<!-- 服务器名只能为英文数字 -->
+<!-- All Servers Must Be Strictly In Order! Means - 1,2,3 ! Not 1,5,10 -->
+<servers>
+     <server Id="1" Name="ArcheAge 1" MaxPlayers="4000" password=""/>
+	 <server Id="2" Name="ArcheAge 2" MaxPlayers="4000" password=""/>
+	 <server Id="3" Name="ArcheAge 3" MaxPlayers="4000" password=""/>
+	 <server Id="4" Name="ArcheAge 4" MaxPlayers="4000" password=""/>
+	 <server Id="5" Name="ArcheAge 5" MaxPlayers="4000" password=""/>
+	 <server Id="6" Name="ArcheAge 6" MaxPlayers="4000" password=""/>
+	 <server Id="7" Name="ArcheAge 7" MaxPlayers="4000" password=""/>
+	 <server Id="8" Name="ArcheAge 8" MaxPlayers="4000" password=""/>
+	 <server Id="9" Name="ArcheAge 9" MaxPlayers="4000" password=""/>
+	 <server Id="10" Name="ArcheAge 10" MaxPlayers="4000" password=""/>
+</servers>

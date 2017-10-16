@@ -1,0 +1,17 @@
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\AALauncher\bin\Release\AALauncher.exe
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\AALauncher\bin\Release\AALauncher.pdb
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\AALauncher\obj\Release\AALauncher.csprojResolveAssemblyReference.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\AALauncher\obj\Release\AALauncher.Form1.resources
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\AALauncher\obj\Release\AALauncher.Properties.Resources.resources
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\AALauncher\obj\Release\AALauncher.csproj.GenerateResource.Cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\AALauncher\obj\Release\AALauncher.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\AALauncher\obj\Release\AALauncher.exe
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\AALauncher\obj\Release\AALauncher.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\AALauncher\bin\Release\AALauncher.exe
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\AALauncher\bin\Release\AALauncher.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\AALauncher\obj\Release\AALauncher.Form1.resources
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\AALauncher\obj\Release\AALauncher.Properties.Resources.resources
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\AALauncher\obj\Release\AALauncher.csproj.GenerateResource.Cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\AALauncher\obj\Release\AALauncher.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\AALauncher\obj\Release\AALauncher.exe
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\AALauncher\obj\Release\AALauncher.pdb

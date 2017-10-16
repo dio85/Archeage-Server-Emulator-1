@@ -1,0 +1,8 @@
+//after connection of a user
+39 00 06 00 0A 00 00 00 08 00 00 00 00 08 00 40 8D 5C FF 6C 12 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+//after disconection of a user
+Send: 07 00 0C 00 02 00 00 00 00
+
+//when gameserver connects
+Send: 00 03 00 00 01

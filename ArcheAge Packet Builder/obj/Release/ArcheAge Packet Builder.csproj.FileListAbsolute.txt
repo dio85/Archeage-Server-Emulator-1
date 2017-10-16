@@ -1,0 +1,35 @@
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\bin\Release\ArcheAge Packet Builder.exe.config
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\bin\Release\ArcheAge Packet Builder.exe
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\bin\Release\ArcheAge Packet Builder.pdb
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\bin\Release\MahApps.Metro.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\bin\Release\System.Windows.Interactivity.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder.csprojResolveAssemblyReference.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\DefinePacket.baml
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\MainWindow.baml
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\DefinePacket.g.cs
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\MainWindow.g.cs
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\App.g.cs
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder_MarkupCompile.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder.g.resources
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\ArcheAge_Packet_Builder.Properties.Resources.resources
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder.csproj.GenerateResource.Cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder.exe
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\bin\Release\ArcheAge Packet Builder.exe.config
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\bin\Release\ArcheAge Packet Builder.exe
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\bin\Release\ArcheAge Packet Builder.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\bin\Release\MahApps.Metro.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\bin\Release\System.Windows.Interactivity.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\DefinePacket.baml
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\MainWindow.baml
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\DefinePacket.g.cs
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\MainWindow.g.cs
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\App.g.cs
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder_MarkupCompile.cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder.g.resources
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\ArcheAge_Packet_Builder.Properties.Resources.resources
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder.csproj.GenerateResource.Cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder.exe
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge Packet Builder\obj\Release\ArcheAge Packet Builder.pdb

@@ -1,0 +1,20 @@
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge\bin\Release\ArcheAgeGameServer.exe.config
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge\bin\Release\ArcheAgeGameServer.exe
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge\bin\Release\ArcheAgeGameServer.pdb
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge\bin\Release\LocalCommons.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge\bin\Release\protobuf-net.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge\bin\Release\LocalCommons.pdb
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge\obj\Release\ArcheAge.csprojResolveAssemblyReference.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge\obj\Release\ArcheAge.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge\obj\Release\ArcheAgeGameServer.exe
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAge\obj\Release\ArcheAgeGameServer.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge\bin\Release\ArcheAgeGameServer.exe.config
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge\bin\Release\ArcheAgeGameServer.exe
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge\bin\Release\ArcheAgeGameServer.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge\bin\Release\LocalCommons.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge\bin\Release\protobuf-net.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge\bin\Release\LocalCommons.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge\obj\Release\ArcheAge.csprojResolveAssemblyReference.cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge\obj\Release\ArcheAge.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge\obj\Release\ArcheAgeGameServer.exe
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAge\obj\Release\ArcheAgeGameServer.pdb

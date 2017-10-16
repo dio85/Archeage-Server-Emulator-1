@@ -1,0 +1,21 @@
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLogin\bin\Release\ArcheAgeLogin.exe.config
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLogin\bin\Release\ArcheAgeLogin.exe
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLogin\bin\Release\ArcheAgeLogin.pdb
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLogin\bin\Release\LocalCommons.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLogin\bin\Release\mysql.data.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLogin\bin\Release\protobuf-net.dll
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLogin\bin\Release\LocalCommons.pdb
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLogin\obj\Release\ArcheAge Login Server.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLogin\obj\Release\ArcheAgeLogin.exe
+C:\Users\blaze\Documents\GitHub\Archeage-Server-emulator-or-files\ArcheAgeLogin\obj\Release\ArcheAgeLogin.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\bin\Release\ArcheAgeLogin.exe.config
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\bin\Release\ArcheAgeLogin.exe
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\bin\Release\ArcheAgeLogin.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\bin\Release\LocalCommons.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\bin\Release\mysql.data.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\bin\Release\protobuf-net.dll
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\bin\Release\LocalCommons.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\obj\Release\ArcheAge Login Server.csproj.CoreCompileInputs.cache
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\obj\Release\ArcheAgeLogin.exe
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\obj\Release\ArcheAgeLogin.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\obj\Release\ArcheAge Login Server.csprojResolveAssemblyReference.cache
