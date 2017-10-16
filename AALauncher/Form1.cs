@@ -22,11 +22,6 @@ namespace AALauncher
         public Form1()
         {
             InitializeComponent();
-
-            btAuth.Click += btAuth_Click;
-            btStart.Click += btStart_Click;
-            Load += Form1_Load;
-            FormClosed += Form1_FormClosed;
         }
 
         void Form1_Load(object sender, EventArgs e)
