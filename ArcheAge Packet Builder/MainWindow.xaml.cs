@@ -40,6 +40,7 @@ namespace ArcheAge_Packet_Builder
             PacketList.SelectionChanged += PacketList_SelectionChanged;
             m_Packets = new List<ArcheAgePacket>();
             OpenFileDialog dial = new OpenFileDialog();
+            //dial.Filter = ".pcap Files|*.pcap";
             PacketFamily family = null;
             try
             {

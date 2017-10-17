@@ -14,7 +14,7 @@ namespace AALauncher
 
         public SettingsKeeper()
         {
-            LoginServerIp = "192.168.1.8:1237";
+            LoginServerIp = "127.0.0.1:1237";
         }
     }
 }

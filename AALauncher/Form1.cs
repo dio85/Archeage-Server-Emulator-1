@@ -26,13 +26,15 @@ namespace AALauncher
 
         void Form1_Load(object sender, EventArgs e)
         {
-            //if (File.Exists(SettingsFile))
-            //    settings = Serializer.Load<SettingsKeeper>(SettingsFile, false, Serializer.Format.Binary);
+            if (File.Exists(SettingsFile))
+            {
+                settings = Serializer.Load<SettingsKeeper>(SettingsFile, false, Serializer.Format.Binary);
+            }
 
-            //emailBox.Text = settings.Email;
-            //passwordText.Text = settings.Password;
-            //gamePathBox.Text = settings.GamePath;
-            //loginServerIpBox.Text = settings.LoginServerIp;
+            emailBox.Text = settings.Email;
+            passwordText.Text = settings.Password;
+            gamePathBox.Text = settings.GamePath;
+            loginServerIpBox.Text = settings.LoginServerIp;
         }
 
         void a_Completed(object sender, AuthorizationCompletedEventArgs e)

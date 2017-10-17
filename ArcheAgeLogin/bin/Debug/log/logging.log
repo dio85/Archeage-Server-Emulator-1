@@ -1,21 +1,16 @@
 ------------------[ The assembly started repair + finished by: cigarette cage ]
-10/17/2017 1:06 AM - ArcheAge Emu - Verison 2.0, Build 6499.922
-10/17/2017 1:06 AM - Main: Running On .NET Framework (C#) Version 4.0.30319
-10/17/2017 1:06 AM - If you want to stop the service please press directly Ctrl + C
+10/17/2017 4:08 PM - ArcheAge Emu - Verison 2.0, Build 6499.922
+10/17/2017 4:08 PM - Main: Running On .NET Framework (C#) Version 4.0.30319
+10/17/2017 4:08 PM - If you want to stop the service please press directly Ctrl + C
 ----------------------------------------------------------------[ Controllers ]
-10/17/2017 1:06 AM - From-- Servers.xml --load- 10 -Server
+10/17/2017 4:08 PM - From-- Servers.xml --load- 10 -Server
 ----------------------------------------------------------------------[ MySQL ]
-10/17/2017 1:06 AM - Loaded to 0 Account
+10/17/2017 4:08 PM - Loaded to 0 Account
 --------------------------------------------------------------------[ Network ]
-10/17/2017 1:06 AM - Installed GameConnection At 192.168.1.8:1231
-10/17/2017 1:06 AM - Installed ArcheAgeConnection At 192.168.1.8:1237
-10/17/2017 1:06 AM - ArcheAge Login Server Started In 0.43 sec.
-10/17/2017 1:07 AM - Game Server 192.168.1.8 - Connected
-10/17/2017 1:07 AM - 
+10/17/2017 4:08 PM - Installed GameConnection At 192.168.1.8:1231
+10/17/2017 4:08 PM - Installed ArcheAgeConnection At 192.168.1.8:1237
+10/17/2017 4:08 PM - ArcheAge Login Server Started In 0.36 sec.
+10/17/2017 4:09 PM - Game Server 192.168.1.8 - Connected
+10/17/2017 4:09 PM - 
 00 12 00 00 01 04 D7 31 39 32 2E 31 36 38 2E 31 2E 38 00 00 
-10/17/2017 1:07 AM - World server - id：1 - registered
-10/17/2017 1:24 AM - Client  :《192.168.1.8》 connection
-10/17/2017 1:24 AM - 
-39 00 05 00 0A 00 00 00 08 00 00 00 00 08 00 40 8D 5C FF 6C 12 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
-10/17/2017 1:24 AM - Client 192.168.1.8 : Disconnect
-10/17/2017 1:33 AM - Game Server 1 : Disconnected
+10/17/2017 4:09 PM - World server - id：1 - registered

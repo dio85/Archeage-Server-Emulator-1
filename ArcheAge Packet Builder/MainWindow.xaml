@@ -22,9 +22,9 @@
             <ColumnDefinition Width="50*"/>
             <ColumnDefinition Width="273*"/>
         </Grid.ColumnDefinitions>
-		<Button Style="{DynamicResource SquareButtonStyle}" Content="Загрузить .pcap" HorizontalAlignment="Left" Margin="10,9,0,0" VerticalAlignment="Top" Width="208" Click="Button_Click_1"/>
+		<Button Style="{DynamicResource SquareButtonStyle}" Content="Choose .pcap" HorizontalAlignment="Left" Margin="10,9,0,0" VerticalAlignment="Top" Width="208" Click="Button_Click_1"/>
         <ListBox x:Name="PacketList" HorizontalAlignment="Left" Height="527" Margin="10,42,0,0" VerticalAlignment="Top" Width="465" Grid.ColumnSpan="2" FontStyle="Italic" SelectionChanged="PacketList_SelectionChanged"/>
-        <Button Style="{DynamicResource SquareButtonStyle}" x:Name="DefinePacket" Content="Определить Пакет" Grid.Column="2" HorizontalAlignment="Left" Margin="411,9,0,0" VerticalAlignment="Top" Width="226" Height="28" Click="DefinePacket_Click"/>
+		<Button Style="{DynamicResource SquareButtonStyle}" x:Name="DefinePacket" Content="Define a Package" Grid.Column="2" HorizontalAlignment="Left" Margin="411,9,0,0" VerticalAlignment="Top" Width="226" Height="28" Click="DefinePacket_Click"/>
         <RichTextBox IsReadOnly="True" x:Name="HexBox" Grid.Column="2" HorizontalAlignment="Left" Height="238" Margin="10,42,0,0" VerticalAlignment="Top" Width="627">
             <FlowDocument>
                 <Paragraph>
