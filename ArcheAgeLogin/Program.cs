@@ -22,14 +22,14 @@ namespace ArcheAgeLogin
         // .method private hidebysig static void Main(string[] args) cil managed
         static void Main(string[] args)
         {
-            Console.Title = "Ancient European service landing server";
+            Console.Title = "ARCHEAGE LOGIN SERVER";
             Console.CancelKeyPress += Console_CancelKeyPress;
             Stopwatch watch = Stopwatch.StartNew();
             watch.Start();
             AppDomain.CurrentDomain.UnhandledException += CurrentDomain_UnhandledException;
             LoadExecutingAssembly(args);
             watch.Stop();
-            Logger.Trace("ArcheAge Login Server Started In {0} sec.", (watch.ElapsedMilliseconds / 1000.0).ToString("0.00"));
+            Logger.Trace("Login server started in {0} sec.", (watch.ElapsedMilliseconds / 1000.0).ToString("0.00"));
             watch = null;
             Key_Pressed();
         }

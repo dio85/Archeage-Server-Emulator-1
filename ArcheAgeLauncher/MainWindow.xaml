@@ -4,30 +4,31 @@
         xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
         Title="Ancient century starter / development version" Height="350" Width="613" ResizeMode="NoResize">
 
-    <Window.Resources>
-        <ResourceDictionary>
-            <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colours.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
-            </ResourceDictionary.MergedDictionaries>
-        </ResourceDictionary>
-    </Window.Resources>
+	<Window.Resources>
+		<ResourceDictionary>
+			<ResourceDictionary.MergedDictionaries>
+				<ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colours.xaml" />
+				<ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+				<ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+				<ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+				<ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+			</ResourceDictionary.MergedDictionaries>
+		</ResourceDictionary>
+	</Window.Resources>
 
-    <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="161*"/>
-            <ColumnDefinition Width="446*"/>
-        </Grid.ColumnDefinitions>
-        <TextBox x:Name="ipaddress" Controls:TextboxHelper.ClearTextButton="True" Controls:TextboxHelper.Watermark="Адрес Логин Сервера" HorizontalAlignment="Left" Height="23" Margin="119,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" Text="127.0.0.1" Grid.ColumnSpan="2"/>
-        <TextBox x:Name="port" Controls:TextboxHelper.ClearTextButton="True" Controls:TextboxHelper.Watermark="Порт Логин Сервера" HorizontalAlignment="Left" Height="23" Margin="265,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="61" Text="1237" Grid.Column="1"/>
-        <Button Style="{DynamicResource SquareButtonStyle}" Content="Start Up" HorizontalAlignment="Left" Margin="265,246,0,0" VerticalAlignment="Top" Width="134" Grid.Column="1" Click="Button_Click"/>
-        <Image  HorizontalAlignment="Center" Height="136" Margin="10,10,0,0" VerticalAlignment="Top" Width="587" Grid.ColumnSpan="2" Source="archeage-logo.png"/>
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="161*"/>
+			<ColumnDefinition Width="32*"/>
+			<ColumnDefinition Width="414*"/>
+		</Grid.ColumnDefinitions>
+		<TextBox x:Name="ipaddress" Controls:TextboxHelper.ClearTextButton="True" Controls:TextboxHelper.Watermark="Server Login ID" HorizontalAlignment="Left" Height="23" Margin="119,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" Text="127.0.0.1" Grid.ColumnSpan="3"/>
+		<TextBox x:Name="port" Controls:TextboxHelper.ClearTextButton="True" Controls:TextboxHelper.Watermark="Server Login Port" HorizontalAlignment="Left" Height="23" Margin="232.788,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="61" Text="1237" Grid.Column="2"/>
+		<Button Style="{DynamicResource SquareButtonStyle}" Content="Start Up" HorizontalAlignment="Left" Margin="232.788,246,0,0" VerticalAlignment="Top" Width="134" Grid.Column="2" Click="Button_Click"/>
+		<Image  HorizontalAlignment="Center" Height="136" Margin="15,10,5,0" VerticalAlignment="Top" Width="587" Grid.ColumnSpan="3" Source="archeage-logo.png"/>
 		<CheckBox x:Name="turn_slscrn" Content="Disable splash screen?" HorizontalAlignment="Left" Margin="10,246,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="170" Height="19"/>
-        <Label Content="Server IP:" HorizontalAlignment="Left" Margin="15,184,0,0" VerticalAlignment="Top"/>
-        <Label Content="Port:" HorizontalAlignment="Left" Margin="195,185,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+		<Label Content="Server IP:" HorizontalAlignment="Left" Margin="15,184,0,0" VerticalAlignment="Top"/>
+		<Label Content="Port:" HorizontalAlignment="Left" Margin="162.788,185,0,0" VerticalAlignment="Top" Grid.Column="2"/>
 
-    </Grid>
+	</Grid>
 </Controls:MetroWindow>

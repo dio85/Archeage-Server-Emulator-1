@@ -20,7 +20,7 @@ namespace ArcheAge
     {
         static void Main(string[] args)
         {
-            Console.Title = "Ancient European service server";
+            Console.Title = "ARCHEAGE GAME SERVER";
             Console.CancelKeyPress += Console_CancelKeyPress;
             Stopwatch watch = Stopwatch.StartNew();
             AppDomain.CurrentDomain.UnhandledException += CurrentDomain_UnhandledException;
@@ -69,7 +69,7 @@ namespace ArcheAge
             LocalCommons.Native.Significant.Main.InitializeStruct(args); //Initializing LocalCommons.dll
 
             //------ Binary ------------------------------------------
-            //Logger.Section("二进制数据");
+            //Logger.Section("Binary data");
 
             //------ Network ------------------------------------------
             Logger.Section("Internet connection");

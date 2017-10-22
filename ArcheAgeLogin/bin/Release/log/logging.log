@@ -1,0 +1,14 @@
+------------------[ The assembly started repair + finished by: cigarette cage ]
+10/18/2017 12:16 PM - ArcheAge Emu - Verison 2.0, Build 6499.922
+10/18/2017 12:16 PM - Main: Running On .NET Framework (C#) Version 4.0.30319
+10/18/2017 12:16 PM - If you want to stop the service please press directly Ctrl + C
+----------------------------------------------------------------[ Controllers ]
+10/18/2017 12:16 PM - Unhandled Exception - Sender: AppDomain , Exception - 
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\bin\Release\data\Servers.xml'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at ArcheAgeLogin.ArcheAge.GameServerController.LoadAvailableGameServers() in C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\ArcheAge\GameServerController.cs:line 78
+   at ArcheAgeLogin.Program.LoadExecutingAssembly(String[] args) in C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\Program.cs:line 94
+   at ArcheAgeLogin.Program.Main(String[] args) in C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\ArcheAgeLogin\Program.cs:line 31

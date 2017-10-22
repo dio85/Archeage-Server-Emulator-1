@@ -34,3 +34,4 @@ C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\bin\Debug\
 C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\obj\Debug\ArcheAge Commons.csproj.CoreCompileInputs.cache
 C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\obj\Debug\LocalCommons.dll
 C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\obj\Debug\LocalCommons.pdb
+C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\obj\Debug\ArcheAge Commons.csprojResolveAssemblyReference.cache

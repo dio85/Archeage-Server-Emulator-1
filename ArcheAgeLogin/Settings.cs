@@ -1,15 +1,15 @@
 ﻿namespace ArcheAgeLogin.Properties {
-    
-    
-    // Этот класс позволяет обрабатывать определенные события в классе параметров:
-    //  Событие SettingChanging возникает перед изменением значения параметра.
-    //  Событие PropertyChanged возникает после изменения значения параметра.
-    //  Событие SettingsLoaded возникает после загрузки значений параметров.
-    //  Событие SettingsSaving возникает перед сохранением значений параметров.
+
+
+    // This class allows you to handle certain events in a class of parameters:
+    //  The SettingChanging event occurs before changing the value of the parameter.
+    //  The PropertyChanged event occurs after the value of the parameter is changed.
+    //  The SettingsLoaded event occurs after loading parameter values.
+    //  A SettingsSaving event occurs before the parameter values are saved.
     internal sealed partial class Settings {
         
         public Settings() {
-            // // Для добавления обработчиков событий для сохранения и изменения параметров раскомментируйте приведенные ниже строки:
+            // To add event handlers to save and modify parameters, uncomment the following lines:
             //
             // this.SettingChanging += this.SettingChangingEventHandler;
             //
@@ -27,11 +27,11 @@
         }
         
         private void SettingChangingEventHandler(object sender, System.Configuration.SettingChangingEventArgs e) {
-            // Добавьте здесь код для обработки события SettingChangingEvent.
+            // Add here the code to handle the event SettingChangingEvent.
         }
-        
+
         private void SettingsSavingEventHandler(object sender, System.ComponentModel.CancelEventArgs e) {
-            // Добавьте здесь код для обработки события SettingsSaving.
+            // Add here the code to handle the event SettingsSaving.
         }
     }
 }

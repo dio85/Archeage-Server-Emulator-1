@@ -1,16 +1,17 @@
 ------------------[ The assembly started repair + finished by: cigarette cage ]
-10/17/2017 4:08 PM - ArcheAge Emu - Verison 2.0, Build 6499.922
-10/17/2017 4:08 PM - Main: Running On .NET Framework (C#) Version 4.0.30319
-10/17/2017 4:08 PM - If you want to stop the service please press directly Ctrl + C
+10/22/2017 10:20 PM - ArcheAge Emu - Verison 2.0, Build 6504.40080
+10/22/2017 10:20 PM - Main: Running On .NET Framework (C#) Version 4.0.30319
+10/22/2017 10:20 PM - If you want to stop the service please press directly Ctrl + C
 ----------------------------------------------------------------[ Controllers ]
-10/17/2017 4:08 PM - From-- Servers.xml --load- 10 -Server
+10/22/2017 10:20 PM - From-- Servers.xml --load- 10 -Server
 ----------------------------------------------------------------------[ MySQL ]
-10/17/2017 4:08 PM - Loaded to 0 Account
+10/22/2017 10:20 PM - Loaded to 0 Account
 --------------------------------------------------------------------[ Network ]
-10/17/2017 4:08 PM - Installed GameConnection At 192.168.1.8:1231
-10/17/2017 4:08 PM - Installed ArcheAgeConnection At 192.168.1.8:1237
-10/17/2017 4:08 PM - ArcheAge Login Server Started In 0.36 sec.
-10/17/2017 4:09 PM - Game Server 192.168.1.8 - Connected
-10/17/2017 4:09 PM - 
-00 12 00 00 01 04 D7 31 39 32 2E 31 36 38 2E 31 2E 38 00 00 
-10/17/2017 4:09 PM - World server - id：1 - registered
+10/22/2017 10:20 PM - Installed GameConnection At 192.168.1.2:1231
+10/22/2017 10:20 PM - Installed ArcheAgeConnection At 192.168.1.2:1237
+10/22/2017 10:20 PM - Login server started in 0.57 sec.
+10/22/2017 10:20 PM - Game Server 192.168.1.2 - Connected
+10/22/2017 10:20 PM - 
+00 12 00 00 01 04 D7 31 39 32 2E 31 36 38 2E 31 2E 32 00 00 
+10/22/2017 10:20 PM - World server - id：1 - registered
+10/22/2017 10:48 PM - Game Server 1 : Disconnected
