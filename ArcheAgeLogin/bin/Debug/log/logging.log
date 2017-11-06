@@ -1,17 +1,31 @@
 ------------------[ The assembly started repair + finished by: cigarette cage ]
-10/22/2017 10:20 PM - ArcheAge Emu - Verison 2.0, Build 6504.40080
-10/22/2017 10:20 PM - Main: Running On .NET Framework (C#) Version 4.0.30319
-10/22/2017 10:20 PM - If you want to stop the service please press directly Ctrl + C
+10/23/2017 12:00 AM - ArcheAge Emu - Verison 2.0, Build 6504.40080
+10/23/2017 12:00 AM - Main: Running On .NET Framework (C#) Version 4.0.30319
+10/23/2017 12:00 AM - If you want to stop the service please press directly Ctrl + C
 ----------------------------------------------------------------[ Controllers ]
-10/22/2017 10:20 PM - From-- Servers.xml --load- 10 -Server
+10/23/2017 12:00 AM - From-- Servers.xml --load- 10 -Server
 ----------------------------------------------------------------------[ MySQL ]
-10/22/2017 10:20 PM - Loaded to 0 Account
+10/23/2017 12:00 AM - Loaded to 0 Account
 --------------------------------------------------------------------[ Network ]
-10/22/2017 10:20 PM - Installed GameConnection At 192.168.1.2:1231
-10/22/2017 10:20 PM - Installed ArcheAgeConnection At 192.168.1.2:1237
-10/22/2017 10:20 PM - Login server started in 0.57 sec.
-10/22/2017 10:20 PM - Game Server 192.168.1.2 - Connected
-10/22/2017 10:20 PM - 
+10/23/2017 12:00 AM - Installed GameConnection At 192.168.1.2:1231
+10/23/2017 12:00 AM - Installed ArcheAgeConnection At 192.168.1.2:1237
+10/23/2017 12:00 AM - Login server started in 0.35 sec.
+10/23/2017 12:00 AM - Game Server 192.168.1.2 - Connected
+10/23/2017 12:00 AM - 
 00 12 00 00 01 04 D7 31 39 32 2E 31 36 38 2E 31 2E 32 00 00 
-10/22/2017 10:20 PM - World server - id：1 - registered
-10/22/2017 10:48 PM - Game Server 1 : Disconnected
+10/23/2017 12:00 AM - World server - id：1 - registered
+10/23/2017 12:04 AM - 
+39 00 05 00 0A 00 00 00 08 00 00 00 00 08 00 40 8D 5C FF 6C 12 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+10/23/2017 12:04 AM - Client  :《192.168.1.2》 connection
+10/23/2017 12:04 AM - Unhandled Exception - Sender: AppDomain , Exception - 
+System.ArgumentException: Offset and length were out of bounds for the array or count is greater than the number of elements from index to the end of the source collection.
+   at System.Buffer.BlockCopy(Array src, Int32 srcOffset, Array dst, Int32 dstOffset, Int32 count)
+   at LocalCommons.Native.Network.IConnection.ProceedReceiving(SocketAsyncEventArgs e) in C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\Native\Network\IConnection.cs:line 265
+   at LocalCommons.Native.Network.IConnection.m_AsyncReceive_Completed(Object sender, SocketAsyncEventArgs e) in C:\Users\blaze\Documents\GitHub\Archeage Server Emulator\LocalCommons\Native\Network\IConnection.cs:line 292
+   at System.Net.Sockets.SocketAsyncEventArgs.OnCompleted(SocketAsyncEventArgs e)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.Sockets.SocketAsyncEventArgs.FinishOperationSuccess(SocketError socketError, Int32 bytesTransferred, SocketFlags flags)
+   at System.Net.Sockets.SocketAsyncEventArgs.CompletionPortCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)
+   at System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)

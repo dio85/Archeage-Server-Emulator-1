@@ -1,11 +1,17 @@
 ------------------[ The assembly started repair + finished by: cigarette cage ]
-10/22/2017 10:20 PM - ArcheAge Emu - Verison 2.0, Build 6504.40080
-10/22/2017 10:20 PM - Main: Running On .NET Framework (C#) Version 4.0.30319
-10/22/2017 10:20 PM - If you want to stop the service please press directly Ctrl + C
+10/23/2017 12:00 AM - ArcheAge Emu - Verison 2.0, Build 6504.40080
+10/23/2017 12:00 AM - Main: Running On .NET Framework (C#) Version 4.0.30319
+10/23/2017 12:00 AM - If you want to stop the service please press directly Ctrl + C
 --------------------------------------------------------[ Internet connection ]
-10/22/2017 10:20 PM - Connect to server, install data ...
-10/22/2017 10:20 PM - Installed ClientConnection At 192.168.1.2:1239
-10/22/2017 10:20 PM - ArcheAge Start Up  0.00 seconds.
-10/22/2017 10:20 PM - 
+10/23/2017 12:00 AM - Connect to server, install data ...
+10/23/2017 12:00 AM - Installed ClientConnection At 192.168.1.2:1239
+10/23/2017 12:00 AM - ArcheAge Start Up  0.00 seconds.
+10/23/2017 12:00 AM - 
 00 03 00 00 01 
-10/22/2017 10:20 PM - Successfully install the login server
+10/23/2017 12:00 AM - Successfully install the login server
+10/23/2017 12:02 AM - Client 192.168.1.2: connection
+10/23/2017 12:02 AM - 
+39 00 05 00 0A 00 00 00 08 00 00 00 00 08 00 40 8D 5C FF 6C 12 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+10/23/2017 12:02 AM - Received undefined Level 0 - Opcode 0x0A
+10/23/2017 12:03 AM - Client 192.168.1.2 :  disconnect
+10/23/2017 12:18 AM - Log in to the server 192.168.1.2：Disconnect

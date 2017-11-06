@@ -131,7 +131,7 @@ namespace LocalCommons.Native.Network
             m_AsyncSend_Do();
         }
         /// <summary>
-        /// 返回服务器列表
+        /// Return to the server list
         /// </summary>
         /// <param name="packet"></param>
         public virtual void SendAsyncHex(NetPacket packet)
@@ -158,7 +158,7 @@ namespace LocalCommons.Native.Network
             StringBuilder builder = new StringBuilder();
             foreach (byte b in compiled)
                 builder.AppendFormat("{0:X2} ", b);
-            Console.WriteLine("发送: " + builder.ToString());
+            Console.WriteLine("send: " + builder.ToString());
             m_Current.Send(compiled, compiled.Length, SocketFlags.None);
         }
 
